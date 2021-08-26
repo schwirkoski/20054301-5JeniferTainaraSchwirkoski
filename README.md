@@ -12,7 +12,7 @@ RA: 20054301-5
 
 + HTML5- como linguagem de marcação <br>
 + PHP<br>
-+ CSS3- para estolizar todos os componentes.<br>
++ CSS3- para estilizar todos os componentes.<br>
 
 <h1>Pré-requisitos</h1>
 
