@@ -24,4 +24,5 @@ RA: 20054301-5
 
 <h1>Preview da pagina Index.php</h1> <br>
 
-![pagina home](https://user-images.githubusercontent.com/89552005/130928527-7e02a2c1-a302-41e4-bee8-76988b16abf6.jpeg)
+![pagina home](https://user-images.githubusercontent.com/89552005/130928884-e85fc008-21fa-40fb-ba1f-02d3f9bc20ce.jpeg)
+
