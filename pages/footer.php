@@ -3,7 +3,7 @@
     <img src="imagens/logo2.png"  alt="log-fabrica-de-sorvete">
   </div>
   <div>
-  <p class="info">Desenvolvido por Julio Cesar Barbosa Junior. <br/> RA:20020869-5 <br> Curso:  Sistemas para Internet</p>
+  <p class="info">Desenvolvido por Jenifer Tainara Schwirkoski <br/> RA:20054301-5 <br> Curso:  Sistemas para Internet</p>
   <div class="icons">
     
 <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
