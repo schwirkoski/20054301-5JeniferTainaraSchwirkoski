@@ -32,10 +32,9 @@
       display: flex;
       flex-direction: column;
       min-height: 100%;
-      background-image: url(./img/logotipo.png);
-      background-size: cover;
-
+      background-image: url(./imagens/fundo.png);
       }
+
 .logo {
   width: 90px;
   height: 90px;
